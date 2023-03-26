@@ -32,7 +32,6 @@ const MenuStyles = StyleSheet.create({
   innerContainer: {
     paddingHorizontal: 40,
     paddingVertical: 40,
-    backgroundColor: "black",
   },
   headerText: {
     color: 'white',
@@ -41,6 +40,6 @@ const MenuStyles = StyleSheet.create({
   },
   mainText: {
     color: '#F4CE14',
-    fontSize: 26 
-  }
+    fontSize: 26,
+  },
 })

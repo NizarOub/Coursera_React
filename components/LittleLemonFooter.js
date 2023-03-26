@@ -14,7 +14,7 @@ export default function LittleLemonFooter() {
 const footerStyles = StyleSheet.create({
   container: {
     marginBottom : 10,
-    backgroundColor: '#F4CE14'
+    backgroundColor: '#EE9972'
   },
   text: {
     fontSize: 18,
